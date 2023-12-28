@@ -1,4 +1,4 @@
-# Simple Paint Brush in Java using Object Oriented Programming.
+# Simple Paint Applet in Java using Object Oriented Programming.
 
 ## Project Description
 
